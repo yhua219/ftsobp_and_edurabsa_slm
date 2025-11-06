@@ -1,0 +1,12 @@
+python==3.11.11
+accelerate==1.4.0
+datasets==3.3.2
+flash-attn==2.7.3
+huggingface-hub==0.34.4
+openpyxl
+pandas==2.2.3
+peft==0.14.0
+rouge_score==0.1.2
+tokenizers==0.21.0
+torch==2.5.1+cu121
+transformers==4.55.2

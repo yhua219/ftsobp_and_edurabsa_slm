@@ -1,0 +1,514 @@
+
+================================================================================
+TRAINING SUMMARY - 2025-09-07 23:19:13
+================================================================================
+
+
+
+================================================================================
+TRAINING CONFIGURATION:
+================================================================================
+
+output_dir: _lora_checkpoints/experiment/QW2.5_Q42.7_fewshot_train2000_R64_modAL_ASTE_singletask_cascadedOrder_promptV1_fewshot/
+overwrite_output_dir: False
+do_train: False
+do_eval: True
+do_predict: False
+eval_strategy: steps
+prediction_loss_only: False
+per_device_train_batch_size: 1
+per_device_eval_batch_size: 1
+per_gpu_train_batch_size: None
+per_gpu_eval_batch_size: None
+gradient_accumulation_steps: 10
+eval_accumulation_steps: 10
+eval_delay: 0
+torch_empty_cache_steps: None
+learning_rate: 0.00011
+weight_decay: 0.0015
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_epsilon: 1e-08
+max_grad_norm: 1.0
+num_train_epochs: 3
+max_steps: -1
+lr_scheduler_type: cosine
+lr_scheduler_kwargs: {}
+warmup_ratio: 0.1
+warmup_steps: 0
+log_level: warning
+log_level_replica: warning
+log_on_each_node: True
+logging_dir: _training_log/experiment/QW2.5_Q42.7_fewshot_train2000_R64_modAL_ASTE_singletask_cascadedOrder_promptV1_fewshot/
+logging_strategy: steps
+logging_first_step: True
+logging_steps: 20
+logging_nan_inf_filter: True
+save_strategy: steps
+save_steps: 20
+save_total_limit: 6
+save_safetensors: True
+save_on_each_node: False
+save_only_model: False
+restore_callback_states_from_checkpoint: False
+no_cuda: False
+use_cpu: False
+use_mps_device: False
+seed: 73
+data_seed: None
+jit_mode_eval: False
+use_ipex: False
+bf16: True
+fp16: False
+fp16_opt_level: O1
+half_precision_backend: auto
+bf16_full_eval: False
+fp16_full_eval: False
+tf32: None
+local_rank: 0
+ddp_backend: None
+tpu_num_cores: None
+tpu_metrics_debug: False
+debug: []
+dataloader_drop_last: False
+eval_steps: 20
+dataloader_num_workers: 0
+dataloader_prefetch_factor: None
+past_index: -1
+run_name: None
+disable_tqdm: False
+remove_unused_columns: True
+label_names: None
+load_best_model_at_end: True
+metric_for_best_model: eval_rougeL_fmeasure
+greater_is_better: True
+ignore_data_skip: False
+fsdp: []
+fsdp_min_num_params: 0
+fsdp_config: {'min_num_params': 0, 'xla': False, 'xla_fsdp_v2': False, 'xla_fsdp_grad_ckpt': False}
+fsdp_transformer_layer_cls_to_wrap: None
+accelerator_config: {'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True, 'non_blocking': False, 'gradient_accumulation_kwargs': None}
+deepspeed: None
+label_smoothing_factor: 0.06
+optim: adamw_torch
+optim_args: None
+adafactor: False
+group_by_length: False
+length_column_name: length
+report_to: ['tensorboard']
+ddp_find_unused_parameters: None
+ddp_bucket_cap_mb: None
+ddp_broadcast_buffers: None
+dataloader_pin_memory: True
+dataloader_persistent_workers: False
+skip_memory_metrics: True
+use_legacy_prediction_loop: False
+push_to_hub: False
+resume_from_checkpoint: None
+hub_model_id: None
+hub_strategy: every_save
+hub_token: <HUB_TOKEN>
+hub_private_repo: None
+hub_always_push: False
+hub_revision: None
+gradient_checkpointing: True
+gradient_checkpointing_kwargs: {'use_reentrant': True}
+include_inputs_for_metrics: False
+include_for_metrics: []
+eval_do_concat_batches: True
+fp16_backend: auto
+push_to_hub_model_id: None
+push_to_hub_organization: None
+push_to_hub_token: <PUSH_TO_HUB_TOKEN>
+mp_parameters: 
+auto_find_batch_size: False
+full_determinism: False
+torchdynamo: None
+ray_scope: last
+ddp_timeout: 1800
+torch_compile: False
+torch_compile_backend: None
+torch_compile_mode: None
+include_tokens_per_second: False
+include_num_input_tokens_seen: False
+neftune_noise_alpha: None
+optim_target_modules: None
+batch_eval_metrics: False
+eval_on_start: False
+use_liger_kernel: False
+liger_kernel_config: None
+eval_use_gather_object: False
+average_tokens_across_devices: False
+model_init_kwargs: None
+use_liger: False
+dataset_text_field: text
+dataset_kwargs: None
+dataset_num_proc: None
+max_seq_length: 3000
+packing: False
+eval_packing: None
+dataset_batch_size: None
+num_of_sequences: None
+chars_per_token: <CHARS_PER_TOKEN>
+
+
+================================================================================
+TRAINING LOG HISTORY:
+================================================================================
+
+Step 1:
+  loss: 34.539600
+  grad_norm: 514.038513
+  learning_rate: 0.000000
+  epoch: 0.005000
+  step: 1
+
+Step 2:
+  loss: 22.018100
+  grad_norm: 42.466801
+  learning_rate: 0.000035
+  epoch: 0.100000
+  step: 20
+
+Step 3:
+  eval_loss: 1.301072
+  eval_rouge1_precision: 0.947245
+  eval_rouge1_recall: 0.939989
+  eval_rouge1_fmeasure: 0.943584
+  eval_rouge2_precision: 0.903982
+  eval_rouge2_recall: 0.897258
+  eval_rouge2_fmeasure: 0.900590
+  eval_rougeL_precision: 0.935690
+  eval_rougeL_recall: 0.928602
+  eval_rougeL_fmeasure: 0.932114
+  eval_rougeLsum_precision: 0.944154
+  eval_rougeLsum_recall: 0.936951
+  eval_rougeLsum_fmeasure: 0.940520
+  eval_rouge1_fbeta_1.5: 0.942210
+  eval_rouge2_fbeta_1.5: 0.899316
+  eval_rougeL_fbeta_1.5: 0.930771
+  eval_rougeLsum_fbeta_1.5: 0.939155
+  eval_runtime: 28.432900
+  eval_samples_per_second: 7.034000
+  eval_steps_per_second: 7.034000
+  epoch: 0.100000
+  step: 20
+
+Step 4:
+  loss: 12.462000
+  grad_norm: 39.368103
+  learning_rate: 0.000072
+  epoch: 0.200000
+  step: 40
+
+Step 5:
+  eval_loss: 1.199331
+  eval_rouge1_precision: 0.949651
+  eval_rouge1_recall: 0.942340
+  eval_rouge1_fmeasure: 0.945963
+  eval_rouge2_precision: 0.906995
+  eval_rouge2_recall: 0.900213
+  eval_rouge2_fmeasure: 0.903574
+  eval_rougeL_precision: 0.938210
+  eval_rougeL_recall: 0.931068
+  eval_rougeL_fmeasure: 0.934607
+  eval_rougeLsum_precision: 0.946461
+  eval_rougeLsum_recall: 0.939202
+  eval_rougeLsum_fmeasure: 0.942799
+  eval_rouge1_fbeta_1.5: 0.944578
+  eval_rouge2_fbeta_1.5: 0.902289
+  eval_rougeL_fbeta_1.5: 0.933254
+  eval_rougeLsum_fbeta_1.5: 0.941423
+  eval_runtime: 28.597100
+  eval_samples_per_second: 6.994000
+  eval_steps_per_second: 6.994000
+  epoch: 0.200000
+  step: 40
+
+Step 6:
+  loss: 11.822000
+  grad_norm: 12.709349
+  learning_rate: 0.000108
+  epoch: 0.300000
+  step: 60
+
+Step 7:
+  eval_loss: 1.184033
+  eval_rouge1_precision: 0.946944
+  eval_rouge1_recall: 0.944383
+  eval_rouge1_fmeasure: 0.945649
+  eval_rouge2_precision: 0.904676
+  eval_rouge2_recall: 0.902382
+  eval_rouge2_fmeasure: 0.903516
+  eval_rougeL_precision: 0.935130
+  eval_rougeL_recall: 0.932666
+  eval_rougeL_fmeasure: 0.933884
+  eval_rougeLsum_precision: 0.943431
+  eval_rougeLsum_recall: 0.940905
+  eval_rougeLsum_fmeasure: 0.942154
+  eval_rouge1_fbeta_1.5: 0.945170
+  eval_rouge2_fbeta_1.5: 0.903087
+  eval_rougeL_fbeta_1.5: 0.933423
+  eval_rougeLsum_fbeta_1.5: 0.941681
+  eval_runtime: 28.575200
+  eval_samples_per_second: 6.999000
+  eval_steps_per_second: 6.999000
+  epoch: 0.300000
+  step: 60
+
+Step 8:
+  loss: 11.874200
+  grad_norm: 8.085949
+  learning_rate: 0.000110
+  epoch: 0.400000
+  step: 80
+
+Step 9:
+  eval_loss: 1.174897
+  eval_rouge1_precision: 0.950109
+  eval_rouge1_recall: 0.944345
+  eval_rouge1_fmeasure: 0.947200
+  eval_rouge2_precision: 0.910191
+  eval_rouge2_recall: 0.904860
+  eval_rouge2_fmeasure: 0.907501
+  eval_rougeL_precision: 0.939016
+  eval_rougeL_recall: 0.933399
+  eval_rougeL_fmeasure: 0.936181
+  eval_rougeLsum_precision: 0.946760
+  eval_rougeLsum_recall: 0.941048
+  eval_rougeLsum_fmeasure: 0.943877
+  eval_rouge1_fbeta_1.5: 0.946111
+  eval_rouge2_fbeta_1.5: 0.906494
+  eval_rougeL_fbeta_1.5: 0.935120
+  eval_rougeLsum_fbeta_1.5: 0.942798
+  eval_runtime: 28.747800
+  eval_samples_per_second: 6.957000
+  eval_steps_per_second: 6.957000
+  epoch: 0.400000
+  step: 80
+
+Step 10:
+  loss: 11.690100
+  grad_norm: 8.109820
+  learning_rate: 0.000109
+  epoch: 0.500000
+  step: 100
+
+Step 11:
+  eval_loss: 1.171653
+  eval_rouge1_precision: 0.949917
+  eval_rouge1_recall: 0.943339
+  eval_rouge1_fmeasure: 0.946594
+  eval_rouge2_precision: 0.909239
+  eval_rouge2_recall: 0.903171
+  eval_rouge2_fmeasure: 0.906174
+  eval_rougeL_precision: 0.939032
+  eval_rougeL_recall: 0.932619
+  eval_rougeL_fmeasure: 0.935793
+  eval_rougeLsum_precision: 0.946779
+  eval_rougeLsum_recall: 0.940257
+  eval_rougeLsum_fmeasure: 0.943485
+  eval_rouge1_fbeta_1.5: 0.945353
+  eval_rouge2_fbeta_1.5: 0.905030
+  eval_rougeL_fbeta_1.5: 0.934583
+  eval_rougeLsum_fbeta_1.5: 0.942254
+  eval_runtime: 28.924100
+  eval_samples_per_second: 6.915000
+  eval_steps_per_second: 6.915000
+  epoch: 0.500000
+  step: 100
+
+Step 12:
+  loss: 11.743300
+  grad_norm: 12.448219
+  learning_rate: 0.000107
+  epoch: 0.600000
+  step: 120
+
+Step 13:
+  eval_loss: 1.167438
+  eval_rouge1_precision: 0.949804
+  eval_rouge1_recall: 0.943573
+  eval_rouge1_fmeasure: 0.946659
+  eval_rouge2_precision: 0.908825
+  eval_rouge2_recall: 0.903082
+  eval_rouge2_fmeasure: 0.905926
+  eval_rougeL_precision: 0.938484
+  eval_rougeL_recall: 0.932417
+  eval_rougeL_fmeasure: 0.935421
+  eval_rougeLsum_precision: 0.946709
+  eval_rougeLsum_recall: 0.940532
+  eval_rougeLsum_fmeasure: 0.943591
+  eval_rouge1_fbeta_1.5: 0.945482
+  eval_rouge2_fbeta_1.5: 0.904841
+  eval_rougeL_fbeta_1.5: 0.934275
+  eval_rougeLsum_fbeta_1.5: 0.942424
+  eval_runtime: 28.997800
+  eval_samples_per_second: 6.897000
+  eval_steps_per_second: 6.897000
+  epoch: 0.600000
+  step: 120
+
+Step 14:
+  loss: 11.786600
+  grad_norm: 6.328463
+  learning_rate: 0.000104
+  epoch: 0.700000
+  step: 140
+
+Step 15:
+  eval_loss: 1.164786
+  eval_rouge1_precision: 0.949934
+  eval_rouge1_recall: 0.945021
+  eval_rouge1_fmeasure: 0.947456
+  eval_rouge2_precision: 0.908916
+  eval_rouge2_recall: 0.904389
+  eval_rouge2_fmeasure: 0.906632
+  eval_rougeL_precision: 0.938338
+  eval_rougeL_recall: 0.933558
+  eval_rougeL_fmeasure: 0.935927
+  eval_rougeLsum_precision: 0.946848
+  eval_rougeLsum_recall: 0.941979
+  eval_rougeLsum_fmeasure: 0.944392
+  eval_rouge1_fbeta_1.5: 0.946527
+  eval_rouge2_fbeta_1.5: 0.905777
+  eval_rougeL_fbeta_1.5: 0.935024
+  eval_rougeLsum_fbeta_1.5: 0.943472
+  eval_runtime: 28.557600
+  eval_samples_per_second: 7.003000
+  eval_steps_per_second: 7.003000
+  epoch: 0.700000
+  step: 140
+
+Step 16:
+  loss: 11.702900
+  grad_norm: 5.713224
+  learning_rate: 0.000101
+  epoch: 0.800000
+  step: 160
+
+Step 17:
+  eval_loss: 1.163106
+  eval_rouge1_precision: 0.948514
+  eval_rouge1_recall: 0.944546
+  eval_rouge1_fmeasure: 0.946508
+  eval_rouge2_precision: 0.908312
+  eval_rouge2_recall: 0.904711
+  eval_rouge2_fmeasure: 0.906491
+  eval_rougeL_precision: 0.937364
+  eval_rougeL_recall: 0.933524
+  eval_rougeL_fmeasure: 0.935422
+  eval_rougeLsum_precision: 0.945204
+  eval_rougeLsum_recall: 0.941281
+  eval_rougeLsum_fmeasure: 0.943221
+  eval_rouge1_fbeta_1.5: 0.945763
+  eval_rouge2_fbeta_1.5: 0.905816
+  eval_rougeL_fbeta_1.5: 0.934702
+  eval_rougeLsum_fbeta_1.5: 0.942485
+  eval_runtime: 29.116500
+  eval_samples_per_second: 6.869000
+  eval_steps_per_second: 6.869000
+  epoch: 0.800000
+  step: 160
+
+Step 18:
+  loss: 11.626300
+  grad_norm: 7.602096
+  learning_rate: 0.000097
+  epoch: 0.900000
+  step: 180
+
+Step 19:
+  eval_loss: 1.162696
+  eval_rouge1_precision: 0.947775
+  eval_rouge1_recall: 0.945297
+  eval_rouge1_fmeasure: 0.946523
+  eval_rouge2_precision: 0.907223
+  eval_rouge2_recall: 0.904980
+  eval_rouge2_fmeasure: 0.906090
+  eval_rougeL_precision: 0.936543
+  eval_rougeL_recall: 0.934146
+  eval_rougeL_fmeasure: 0.935332
+  eval_rougeLsum_precision: 0.944582
+  eval_rougeLsum_recall: 0.942133
+  eval_rougeLsum_fmeasure: 0.943345
+  eval_rouge1_fbeta_1.5: 0.946058
+  eval_rouge2_fbeta_1.5: 0.905669
+  eval_rougeL_fbeta_1.5: 0.934882
+  eval_rougeLsum_fbeta_1.5: 0.942885
+  eval_runtime: 28.621700
+  eval_samples_per_second: 6.988000
+  eval_steps_per_second: 6.988000
+  epoch: 0.900000
+  step: 180
+
+Step 20:
+  loss: 11.693500
+  grad_norm: 4.428229
+  learning_rate: 0.000093
+  epoch: 1.000000
+  step: 200
+
+Step 21:
+  eval_loss: 1.160172
+  eval_rouge1_precision: 0.948370
+  eval_rouge1_recall: 0.945390
+  eval_rouge1_fmeasure: 0.946865
+  eval_rouge2_precision: 0.908096
+  eval_rouge2_recall: 0.905391
+  eval_rouge2_fmeasure: 0.906730
+  eval_rougeL_precision: 0.937074
+  eval_rougeL_recall: 0.934189
+  eval_rougeL_fmeasure: 0.935617
+  eval_rougeLsum_precision: 0.944981
+  eval_rougeLsum_recall: 0.942034
+  eval_rougeLsum_fmeasure: 0.943492
+  eval_rouge1_fbeta_1.5: 0.946305
+  eval_rouge2_fbeta_1.5: 0.906222
+  eval_rougeL_fbeta_1.5: 0.935075
+  eval_rougeLsum_fbeta_1.5: 0.942939
+  eval_runtime: 28.566400
+  eval_samples_per_second: 7.001000
+  eval_steps_per_second: 7.001000
+  epoch: 1.000000
+  step: 200
+
+Step 22:
+  loss: 11.210400
+  grad_norm: 6.305665
+  learning_rate: 0.000088
+  epoch: 1.100000
+  step: 220
+
+Step 23:
+  eval_loss: 1.163838
+  eval_rouge1_precision: 0.948779
+  eval_rouge1_recall: 0.945464
+  eval_rouge1_fmeasure: 0.947106
+  eval_rouge2_precision: 0.908454
+  eval_rouge2_recall: 0.905430
+  eval_rouge2_fmeasure: 0.906927
+  eval_rougeL_precision: 0.937521
+  eval_rougeL_recall: 0.934308
+  eval_rougeL_fmeasure: 0.935899
+  eval_rougeLsum_precision: 0.945502
+  eval_rougeLsum_recall: 0.942222
+  eval_rougeLsum_fmeasure: 0.943846
+  eval_rouge1_fbeta_1.5: 0.946482
+  eval_rouge2_fbeta_1.5: 0.906358
+  eval_rougeL_fbeta_1.5: 0.935294
+  eval_rougeLsum_fbeta_1.5: 0.943229
+  eval_runtime: 29.126200
+  eval_samples_per_second: 6.867000
+  eval_steps_per_second: 6.867000
+  epoch: 1.100000
+  step: 220
+
+Step 24:
+  train_runtime: 894.152100
+  train_samples_per_second: 6.710000
+  train_steps_per_second: 0.671000
+  total_flos: 12979214065858560.000000
+  train_loss: 12.750507
+  epoch: 1.100000
+  step: 220

@@ -1,0 +1,5572 @@
+{
+    "1": {
+        "id": "1",
+        "original_id": "ASQP_rest16_dev_1",
+        "text": "I asked for a menu and the same waitress looked at my like I was insane.",
+        "Quadruplets": [
+            {
+                "aspect": "waitress",
+                "opinion": "insane",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "2": {
+        "id": "2",
+        "original_id": "ASQP_rest16_dev_2",
+        "text": "The owner truly caters to all your needs.",
+        "Quadruplets": [
+            {
+                "aspect": "owner",
+                "opinion": "caters to all your needs",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "3": {
+        "id": "3",
+        "original_id": "ASQP_rest16_dev_3",
+        "text": "I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "nasty",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "4": {
+        "id": "4",
+        "original_id": "ASQP_rest16_dev_4",
+        "text": "A great place to meet up for some food and drinks...",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "5": {
+        "id": "5",
+        "original_id": "ASQP_rest16_dev_5",
+        "text": "Loved it",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Loved",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "6": {
+        "id": "6",
+        "original_id": "ASQP_rest16_dev_6",
+        "text": "The owner and staff are all Japanese as well and that adds to the entire ambiance.",
+        "Quadruplets": [
+            {
+                "aspect": "ambiance",
+                "opinion": "adds",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "7": {
+        "id": "7",
+        "original_id": "ASQP_rest16_dev_7",
+        "text": "The side dishes were passable, and I did get a refill upon request.",
+        "Quadruplets": [
+            {
+                "aspect": "side dishes",
+                "opinion": "passable",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "side dishes",
+                "opinion": "refill",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "8": {
+        "id": "8",
+        "original_id": "ASQP_rest16_dev_8",
+        "text": "Great friendly service, Fast seating, Fast Delivery, Excellent sushi.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "Great friendly",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "seating",
+                "opinion": "Fast",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Delivery",
+                "opinion": "Fast",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "sushi",
+                "opinion": "Excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "9": {
+        "id": "9",
+        "original_id": "ASQP_rest16_dev_9",
+        "text": "I went there for lunch and it was not as good as I expected from the reviews I read.",
+        "Quadruplets": [
+            {
+                "aspect": "lunch",
+                "opinion": "not as good as I expected",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "10": {
+        "id": "10",
+        "original_id": "ASQP_rest16_dev_10",
+        "text": "The stuff tilapia was horrid... tasted like cardboard.",
+        "Quadruplets": [
+            {
+                "aspect": "stuff tilapia",
+                "opinion": "horrid",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "11": {
+        "id": "11",
+        "original_id": "ASQP_rest16_dev_11",
+        "text": "I just don't understand all the hype...",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "don't understand",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "12": {
+        "id": "12",
+        "original_id": "ASQP_rest16_dev_12",
+        "text": "Subtle food and service",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "Subtle",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "Subtle",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "13": {
+        "id": "13",
+        "original_id": "ASQP_rest16_dev_13",
+        "text": "Service was wonderful;",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "14": {
+        "id": "14",
+        "original_id": "ASQP_rest16_dev_14",
+        "text": "The food here does a great service to the name (Cantonese that is...).",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "15": {
+        "id": "15",
+        "original_id": "ASQP_rest16_dev_15",
+        "text": "None was made so i hung up.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "None was made",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "16": {
+        "id": "16",
+        "original_id": "ASQP_rest16_dev_16",
+        "text": "This place is a great bargain.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "great bargain",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "17": {
+        "id": "17",
+        "original_id": "ASQP_rest16_dev_17",
+        "text": "I will be going back and heartily recommend it!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "going back",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "heartily recommend",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "18": {
+        "id": "18",
+        "original_id": "ASQP_rest16_dev_18",
+        "text": "great hot dogs.",
+        "Quadruplets": [
+            {
+                "aspect": "hot dogs",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "19": {
+        "id": "19",
+        "original_id": "ASQP_rest16_dev_19",
+        "text": "The food was good too.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "20": {
+        "id": "20",
+        "original_id": "ASQP_rest16_dev_20",
+        "text": "Winnie and her staff are the best crew you can find serving you.",
+        "Quadruplets": [
+            {
+                "aspect": "staff",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Winnie",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "21": {
+        "id": "21",
+        "original_id": "ASQP_rest16_dev_21",
+        "text": "Service was prompt, friendly and great.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "prompt",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Service",
+                "opinion": "friendly",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Service",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "22": {
+        "id": "22",
+        "original_id": "ASQP_rest16_dev_22",
+        "text": "The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",
+        "Quadruplets": [
+            {
+                "aspect": "ambience",
+                "opinion": "fun",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            },
+            {
+                "aspect": "food",
+                "opinion": "tasty",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "23": {
+        "id": "23",
+        "original_id": "ASQP_rest16_dev_23",
+        "text": "the food is always fresh...",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "fresh",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "24": {
+        "id": "24",
+        "original_id": "ASQP_rest16_dev_24",
+        "text": "Excellent sashimi, and the millennium roll is beyond delicious.",
+        "Quadruplets": [
+            {
+                "aspect": "sashimi",
+                "opinion": "Excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "millennium roll",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "25": {
+        "id": "25",
+        "original_id": "ASQP_rest16_dev_25",
+        "text": "Not a great place for family or general dining.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "Not a great",
+                "sentiment": "negative",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "26": {
+        "id": "26",
+        "original_id": "ASQP_rest16_dev_26",
+        "text": "The bagels always warm, soft on the inside, crispy on the outside and enormous in size.",
+        "Quadruplets": [
+            {
+                "aspect": "bagels",
+                "opinion": "warm",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "bagels",
+                "opinion": "soft",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "bagels",
+                "opinion": "crispy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "bagels",
+                "opinion": "enormous",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "27": {
+        "id": "27",
+        "original_id": "ASQP_rest16_dev_27",
+        "text": "So rude!!!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "rude",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "28": {
+        "id": "28",
+        "original_id": "ASQP_rest16_dev_28",
+        "text": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice.",
+        "Quadruplets": [
+            {
+                "aspect": "selection of thin crust pizza",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "selection of thin crust pizza",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "pizza place",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "Basil slice",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "29": {
+        "id": "29",
+        "original_id": "ASQP_rest16_dev_29",
+        "text": "The food is very average... the Thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "average",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Thai fusion stuff",
+                "opinion": "too sweet",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "too sweet",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "30": {
+        "id": "30",
+        "original_id": "ASQP_rest16_dev_30",
+        "text": "Our waitress wasn't mean, but not especially warm or attentive either.",
+        "Quadruplets": [
+            {
+                "aspect": "waitress",
+                "opinion": "wasn't mean",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "31": {
+        "id": "31",
+        "original_id": "ASQP_rest16_dev_31",
+        "text": "The sauce tasted more like Chinese fast food than decent Korean.",
+        "Quadruplets": [
+            {
+                "aspect": "sauce",
+                "opinion": "Chinese fast food",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "32": {
+        "id": "32",
+        "original_id": "ASQP_rest16_dev_32",
+        "text": "Mussles and calamari were superb Saturday evening.",
+        "Quadruplets": [
+            {
+                "aspect": "Mussles",
+                "opinion": "superb",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "calamari",
+                "opinion": "superb",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "33": {
+        "id": "33",
+        "original_id": "ASQP_rest16_dev_33",
+        "text": "The food is wonderful, tasty and filling, and the service is professional and friendly.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "tasty",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "filling",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "service",
+                "opinion": "professional",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "friendly",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "34": {
+        "id": "34",
+        "original_id": "ASQP_rest16_dev_34",
+        "text": "The service is awful.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "awful",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "35": {
+        "id": "35",
+        "original_id": "ASQP_rest16_dev_35",
+        "text": "The fish was adequate, but inexpertly sliced.",
+        "Quadruplets": [
+            {
+                "aspect": "fish",
+                "opinion": "adequate",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "fish",
+                "opinion": "inexpertly sliced",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "36": {
+        "id": "36",
+        "original_id": "ASQP_rest16_dev_36",
+        "text": "Bagels are ok, but be sure not to make any special requests!",
+        "Quadruplets": [
+            {
+                "aspect": "Bagels",
+                "opinion": "ok",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "not to make any special requests",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "37": {
+        "id": "37",
+        "original_id": "ASQP_rest16_dev_37",
+        "text": "Good Food",
+        "Quadruplets": [
+            {
+                "aspect": "Food",
+                "opinion": "Good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "38": {
+        "id": "38",
+        "original_id": "ASQP_rest16_dev_38",
+        "text": "The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "amazing",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "prompt",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "helpful",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "not over-bearing or rushed",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "39": {
+        "id": "39",
+        "original_id": "ASQP_rest16_dev_39",
+        "text": "Sauce was watery and the food didn't have much flavor.",
+        "Quadruplets": [
+            {
+                "aspect": "Sauce",
+                "opinion": "watery",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "didn't have much flavor",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "40": {
+        "id": "40",
+        "original_id": "ASQP_rest16_dev_40",
+        "text": "I wasn't here for the pizza so I can't comment on that yet but what I had was very good.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "41": {
+        "id": "41",
+        "original_id": "ASQP_rest16_dev_41",
+        "text": "We were less than impressed.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "less than impressed",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "42": {
+        "id": "42",
+        "original_id": "ASQP_rest16_dev_42",
+        "text": "The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!",
+        "Quadruplets": [
+            {
+                "aspect": "cocktail with Citrus Vodka and lemon and lime juice and mint leaves",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "43": {
+        "id": "43",
+        "original_id": "ASQP_rest16_dev_43",
+        "text": "The food was average or above including some surprising tasty dishes.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "average or above",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "dishes",
+                "opinion": "tasty",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "44": {
+        "id": "44",
+        "original_id": "ASQP_rest16_dev_44",
+        "text": "sometimes i get bad food and bad service, sometimes i get good good and bad service.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "good",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "45": {
+        "id": "45",
+        "original_id": "ASQP_rest16_dev_45",
+        "text": "Best drumsticks over rice and sour spicy soup in town!",
+        "Quadruplets": [
+            {
+                "aspect": "drumsticks over rice",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "sour spicy soup",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "46": {
+        "id": "46",
+        "original_id": "ASQP_rest16_dev_46",
+        "text": "The workers there also absolutely load the bagel with cream cheese (gets a little messy).",
+        "Quadruplets": [
+            {
+                "aspect": "bagel",
+                "opinion": "messy",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "47": {
+        "id": "47",
+        "original_id": "ASQP_rest16_dev_47",
+        "text": "A few tips: skip the turnip cake, roast pork buns and egg custards.",
+        "Quadruplets": [
+            {
+                "aspect": "turnip cake",
+                "opinion": "skip",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "roast pork buns",
+                "opinion": "skip",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "egg custards",
+                "opinion": "skip",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "48": {
+        "id": "48",
+        "original_id": "ASQP_rest16_dev_48",
+        "text": "Best In ALL of NYC",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "49": {
+        "id": "49",
+        "original_id": "ASQP_rest16_dev_49",
+        "text": "Not worth it.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Not worth",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "50": {
+        "id": "50",
+        "original_id": "ASQP_rest16_dev_50",
+        "text": "Vanison was good but not amazing.",
+        "Quadruplets": [
+            {
+                "aspect": "Vanison",
+                "opinion": "good",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "51": {
+        "id": "51",
+        "original_id": "ASQP_rest16_dev_51",
+        "text": "At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "hastily put the table together for us",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "52": {
+        "id": "52",
+        "original_id": "ASQP_rest16_dev_52",
+        "text": "But for the Shabu Shabu, you won't find much better in NY.",
+        "Quadruplets": [
+            {
+                "aspect": "Shabu Shabu",
+                "opinion": "won't find much better",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "53": {
+        "id": "53",
+        "original_id": "ASQP_rest16_dev_53",
+        "text": "The Cypriot restaurant has a lot going for it.",
+        "Quadruplets": [
+            {
+                "aspect": "Cypriot restaurant",
+                "opinion": "a lot going",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "54": {
+        "id": "54",
+        "original_id": "ASQP_rest16_dev_54",
+        "text": "I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "well prepared",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "55": {
+        "id": "55",
+        "original_id": "ASQP_rest16_dev_55",
+        "text": "I've been to at Cafe Spice probably 5-8 times, it is probably still the best Indian restaurant around Union Square.",
+        "Quadruplets": [
+            {
+                "aspect": "Cafe Spice",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "56": {
+        "id": "56",
+        "original_id": "ASQP_rest16_dev_56",
+        "text": "There's nice and quiet, small but enough for 6 (or more).",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "quiet",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "57": {
+        "id": "57",
+        "original_id": "ASQP_rest16_dev_57",
+        "text": "I really loved the different and inovated touch that's the cheff gives to the food.",
+        "Quadruplets": [
+            {
+                "aspect": "cheff",
+                "opinion": "loved",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "cheff",
+                "opinion": "inovated",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "58": {
+        "id": "58",
+        "original_id": "ASQP_rest16_dev_58",
+        "text": "The food is good, I can't lie.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "59": {
+        "id": "59",
+        "original_id": "ASQP_rest16_dev_59",
+        "text": "Service, however, was excellent... and I liked the setting/atmosphere a lot.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "setting/atmosphere",
+                "opinion": "liked",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "60": {
+        "id": "60",
+        "original_id": "ASQP_rest16_dev_60",
+        "text": "Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.",
+        "Quadruplets": [
+            {
+                "aspect": "Food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "raw vegatables in side orders",
+                "opinion": "wondered about freshmess",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "61": {
+        "id": "61",
+        "original_id": "ASQP_rest16_dev_61",
+        "text": "I recommend it!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "recommend",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "62": {
+        "id": "62",
+        "original_id": "ASQP_rest16_dev_62",
+        "text": "My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",
+        "Quadruplets": [
+            {
+                "aspect": "BBE $29 fixe prix menu",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            },
+            {
+                "aspect": "BBE $29 fixe prix menu",
+                "opinion": "a flight of sake",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "63": {
+        "id": "63",
+        "original_id": "ASQP_rest16_dev_63",
+        "text": "The food is reliable and the price is moderate.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "reliable",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "moderate",
+                "sentiment": "neutral",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "64": {
+        "id": "64",
+        "original_id": "ASQP_rest16_dev_64",
+        "text": "My roommate and I LOVE this place.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "LOVE",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "65": {
+        "id": "65",
+        "original_id": "ASQP_rest16_dev_65",
+        "text": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.",
+        "Quadruplets": [
+            {
+                "aspect": "bottle",
+                "opinion": "love",
+                "sentiment": "negative",
+                "category": "DRINKS - PRICES"
+            },
+            {
+                "aspect": "music",
+                "opinion": "like",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "66": {
+        "id": "66",
+        "original_id": "ASQP_rest16_dev_66",
+        "text": "The best pad thai i've ever had.",
+        "Quadruplets": [
+            {
+                "aspect": "pad thai",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "67": {
+        "id": "67",
+        "original_id": "ASQP_rest16_dev_67",
+        "text": "I wish I COULD be refunded!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "refunded",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "68": {
+        "id": "68",
+        "original_id": "ASQP_rest16_dev_68",
+        "text": "Although we were told 10-15 minutes and it was more like 45 minutes.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "45 minutes",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "69": {
+        "id": "69",
+        "original_id": "ASQP_rest16_dev_69",
+        "text": "Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return.",
+        "Quadruplets": [
+            {
+                "aspect": "waiters",
+                "opinion": "fantastic",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "front of house staff",
+                "opinion": "hideous",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "fish dishes",
+                "opinion": "exceptional",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "70": {
+        "id": "70",
+        "original_id": "ASQP_rest16_dev_70",
+        "text": "Possibly the Most Romantic Restaurant in the City",
+        "Quadruplets": [
+            {
+                "aspect": "Restaurant",
+                "opinion": "Romantic",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "71": {
+        "id": "71",
+        "original_id": "ASQP_rest16_dev_71",
+        "text": "I would go back.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "go back",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "72": {
+        "id": "72",
+        "original_id": "ASQP_rest16_dev_72",
+        "text": "Although we were looking for regular lettuce and some walnuts the salads we got were great.",
+        "Quadruplets": [
+            {
+                "aspect": "salads",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "73": {
+        "id": "73",
+        "original_id": "ASQP_rest16_dev_73",
+        "text": "Service is not exactly five star, but thats not really a big deal.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "not exactly five star",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "74": {
+        "id": "74",
+        "original_id": "ASQP_rest16_dev_74",
+        "text": "The food is great and the environment is even better.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "environment",
+                "opinion": "better",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "75": {
+        "id": "75",
+        "original_id": "ASQP_rest16_dev_75",
+        "text": "Everything I had was good, and I'm a eater.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "76": {
+        "id": "76",
+        "original_id": "ASQP_rest16_dev_76",
+        "text": "The buffet had a nice selection.",
+        "Quadruplets": [
+            {
+                "aspect": "buffet",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "77": {
+        "id": "77",
+        "original_id": "ASQP_rest16_dev_77",
+        "text": "I honestly don't even know where to begin.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "don't even know where to begin",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "78": {
+        "id": "78",
+        "original_id": "ASQP_rest16_dev_78",
+        "text": "Delivery is fast too.",
+        "Quadruplets": [
+            {
+                "aspect": "Delivery",
+                "opinion": "fast",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "79": {
+        "id": "79",
+        "original_id": "ASQP_rest16_dev_79",
+        "text": "Best. Sushi. Ever.",
+        "Quadruplets": [
+            {
+                "aspect": "Sushi",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "80": {
+        "id": "80",
+        "original_id": "ASQP_rest16_dev_80",
+        "text": "Good spreads, great beverage selections and bagels really tasty.",
+        "Quadruplets": [
+            {
+                "aspect": "spreads",
+                "opinion": "Good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "beverage selections",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "DRINKS - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "bagels",
+                "opinion": "tasty",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "81": {
+        "id": "81",
+        "original_id": "ASQP_rest16_dev_81",
+        "text": "Everyone was more then happy with his choices.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "happy",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "82": {
+        "id": "82",
+        "original_id": "ASQP_rest16_dev_82",
+        "text": "One of my favorite places in Brooklyn.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "83": {
+        "id": "83",
+        "original_id": "ASQP_rest16_dev_83",
+        "text": "The concept of japanese tapas is newly created and clearly doesn't work.",
+        "Quadruplets": [
+            {
+                "aspect": "japanese tapas",
+                "opinion": "doesn't work",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "84": {
+        "id": "84",
+        "original_id": "ASQP_rest16_dev_84",
+        "text": "Very good wine choices.",
+        "Quadruplets": [
+            {
+                "aspect": "wine choices",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "DRINKS - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "85": {
+        "id": "85",
+        "original_id": "ASQP_rest16_dev_85",
+        "text": "I highly recommend the Sophia pizza.",
+        "Quadruplets": [
+            {
+                "aspect": "Sophia pizza",
+                "opinion": "recommend",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "86": {
+        "id": "86",
+        "original_id": "ASQP_rest16_dev_86",
+        "text": "The service is excellent, the decor is great, and the food is delicious and comes in large portions.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "decor",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "portions",
+                "opinion": "large",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "87": {
+        "id": "87",
+        "original_id": "ASQP_rest16_dev_87",
+        "text": "I go twice a month!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "twice a month",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "88": {
+        "id": "88",
+        "original_id": "ASQP_rest16_dev_88",
+        "text": "also it's great to have dinner in a very romantic and comfortable place, the service it's just perfect... they're so frendly that we never want to live the place!",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "romantic",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "place",
+                "opinion": "comfortable",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "perfect",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "89": {
+        "id": "89",
+        "original_id": "ASQP_rest16_dev_89",
+        "text": "And $11 for a plate of bland guacamole?",
+        "Quadruplets": [
+            {
+                "aspect": "guacamole",
+                "opinion": "bland",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "guacamole",
+                "opinion": "bland",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "90": {
+        "id": "90",
+        "original_id": "ASQP_rest16_dev_90",
+        "text": "Ingredients are organic which is a real plus for me.",
+        "Quadruplets": [
+            {
+                "aspect": "Ingredients",
+                "opinion": "organic",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Ingredients",
+                "opinion": "plus",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "91": {
+        "id": "91",
+        "original_id": "ASQP_rest16_dev_91",
+        "text": "The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "yummy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "mussels in spicy tomato sauce",
+                "opinion": "yummy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "mussels in spicy tomato sauce",
+                "opinion": "cooked-to-perfection",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "fries",
+                "opinion": "yummy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "fries",
+                "opinion": "crispy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "92": {
+        "id": "92",
+        "original_id": "ASQP_rest16_dev_92",
+        "text": "Maitre-D- \"Eat and get out\"",
+        "Quadruplets": [
+            {
+                "aspect": "Maitre-D",
+                "opinion": "get out",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "93": {
+        "id": "93",
+        "original_id": "ASQP_rest16_dev_93",
+        "text": "Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "rudeness",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "94": {
+        "id": "94",
+        "original_id": "ASQP_rest16_dev_94",
+        "text": "And evaluated on those terms Pastis is simply wonderful.",
+        "Quadruplets": [
+            {
+                "aspect": "Pastis",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "95": {
+        "id": "95",
+        "original_id": "ASQP_rest16_dev_95",
+        "text": "awesome",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "awesome",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "96": {
+        "id": "96",
+        "original_id": "ASQP_rest16_dev_96",
+        "text": "fresh restaurant was amazing........ food was delicious and of course fresh.",
+        "Quadruplets": [
+            {
+                "aspect": "fresh restaurant",
+                "opinion": "fresh",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "fresh restaurant",
+                "opinion": "amazing",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "fresh",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "97": {
+        "id": "97",
+        "original_id": "ASQP_rest16_dev_97",
+        "text": "Delicious, creative and fun.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "creative",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "fun",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "98": {
+        "id": "98",
+        "original_id": "ASQP_rest16_dev_98",
+        "text": "It's cuz it's so good you need to taste it!!!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "99": {
+        "id": "99",
+        "original_id": "ASQP_rest16_dev_99",
+        "text": "I was speechless by the horrible food.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "speechless",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "100": {
+        "id": "100",
+        "original_id": "ASQP_rest16_dev_100",
+        "text": "It was wonderful.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "101": {
+        "id": "101",
+        "original_id": "ASQP_rest16_dev_101",
+        "text": "However, I think this place is a good hang out spot.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "102": {
+        "id": "102",
+        "original_id": "ASQP_rest16_dev_102",
+        "text": "The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse.",
+        "Quadruplets": [
+            {
+                "aspect": "decor",
+                "opinion": "diner-ish",
+                "sentiment": "neutral",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "103": {
+        "id": "103",
+        "original_id": "ASQP_rest16_dev_103",
+        "text": "Try the Pad Thai, or sample anything on the appetizer menu... they're all delicious.",
+        "Quadruplets": [
+            {
+                "aspect": "Pad Thai",
+                "opinion": "Try",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Pad Thai",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "appetizer menu",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "104": {
+        "id": "104",
+        "original_id": "ASQP_rest16_dev_104",
+        "text": "Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.",
+        "Quadruplets": [
+            {
+                "aspect": "bagel",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "105": {
+        "id": "105",
+        "original_id": "ASQP_rest16_dev_105",
+        "text": "And even with it's Pub atmosphere they were great to my kids too!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "106": {
+        "id": "106",
+        "original_id": "ASQP_rest16_dev_106",
+        "text": "JUST AWSOME.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "AWSOME",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "107": {
+        "id": "107",
+        "original_id": "ASQP_rest16_dev_107",
+        "text": "Red Dragon Roll - my favorite thing to eat, of any food group - hands down",
+        "Quadruplets": [
+            {
+                "aspect": "Red Dragon Roll",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "108": {
+        "id": "108",
+        "original_id": "ASQP_rest16_dev_108",
+        "text": "The rice to fish ration was also good -- they didn't try to overpack the rice.",
+        "Quadruplets": [
+            {
+                "aspect": "rice to fish ration",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "109": {
+        "id": "109",
+        "original_id": "ASQP_rest16_dev_109",
+        "text": "They have authentic Indian at amazin prices.",
+        "Quadruplets": [
+            {
+                "aspect": "Indian",
+                "opinion": "authentic",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Indian",
+                "opinion": "authentic",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "110": {
+        "id": "110",
+        "original_id": "ASQP_rest16_dev_110",
+        "text": "My father had the flank steak which was very good, and my mother had the swordfish.",
+        "Quadruplets": [
+            {
+                "aspect": "flank steak",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "111": {
+        "id": "111",
+        "original_id": "ASQP_rest16_dev_111",
+        "text": "Fabulous food - if the front of house staff don't put you off \u2013",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "Fabulous",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "front of house staff",
+                "opinion": "put you off",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "112": {
+        "id": "112",
+        "original_id": "ASQP_rest16_dev_112",
+        "text": "By far, the best pizza in Manhattan.",
+        "Quadruplets": [
+            {
+                "aspect": "pizza",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "113": {
+        "id": "113",
+        "original_id": "ASQP_rest16_dev_113",
+        "text": "Overpriced and not tasty",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Overpriced",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "not tasty",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "114": {
+        "id": "114",
+        "original_id": "ASQP_rest16_dev_114",
+        "text": "Pizza is terrific, as is homemade pasta.",
+        "Quadruplets": [
+            {
+                "aspect": "Pizza",
+                "opinion": "terrific",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "homemade pasta",
+                "opinion": "terrific",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "115": {
+        "id": "115",
+        "original_id": "ASQP_rest16_dev_115",
+        "text": "Raga's is a romantic, cozy restaurant.",
+        "Quadruplets": [
+            {
+                "aspect": "Raga's",
+                "opinion": "romantic",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Raga's",
+                "opinion": "cozy",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "116": {
+        "id": "116",
+        "original_id": "ASQP_rest16_dev_116",
+        "text": "Expensive",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Expensive",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "117": {
+        "id": "117",
+        "original_id": "ASQP_rest16_dev_117",
+        "text": "The location is perfect.",
+        "Quadruplets": [
+            {
+                "aspect": "location",
+                "opinion": "perfect",
+                "sentiment": "positive",
+                "category": "LOCATION - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "118": {
+        "id": "118",
+        "original_id": "ASQP_rest16_dev_118",
+        "text": "All in all, this midtown gem instantly became one of my favorite sushi restaurants in the city.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "119": {
+        "id": "119",
+        "original_id": "ASQP_rest16_dev_119",
+        "text": "This place doesn't make any sense",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "doesn't make any sense",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "120": {
+        "id": "120",
+        "original_id": "ASQP_rest16_dev_120",
+        "text": "The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.",
+        "Quadruplets": [
+            {
+                "aspect": "tables",
+                "opinion": "crammed",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "tables",
+                "opinion": "too close",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "menu",
+                "opinion": "typical",
+                "sentiment": "neutral",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "wine list",
+                "opinion": "overpriced",
+                "sentiment": "negative",
+                "category": "DRINKS - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "121": {
+        "id": "121",
+        "original_id": "ASQP_rest16_dev_121",
+        "text": "The food was pretty tradional but it was hot and good with large portions.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "tradional",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "portions",
+                "opinion": "large",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "122": {
+        "id": "122",
+        "original_id": "ASQP_rest16_dev_122",
+        "text": "I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",
+        "Quadruplets": [
+            {
+                "aspect": "all you can eat deal",
+                "opinion": "limited",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "all you can eat deal",
+                "opinion": "limited",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "123": {
+        "id": "123",
+        "original_id": "ASQP_rest16_dev_123",
+        "text": "A must try!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "A must try",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "124": {
+        "id": "124",
+        "original_id": "ASQP_rest16_dev_124",
+        "text": "I have to say I have never had a disapointing meal here.",
+        "Quadruplets": [
+            {
+                "aspect": "meal",
+                "opinion": "never had a disapointing",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "125": {
+        "id": "125",
+        "original_id": "ASQP_rest16_dev_125",
+        "text": "Be sure not to get anything other than bagels!..",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "not to get anything",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "126": {
+        "id": "126",
+        "original_id": "ASQP_rest16_dev_126",
+        "text": "the spinach is fresh, definately not frozen...",
+        "Quadruplets": [
+            {
+                "aspect": "spinach",
+                "opinion": "fresh",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "127": {
+        "id": "127",
+        "original_id": "ASQP_rest16_dev_127",
+        "text": "I had the Thai style Fried Sea Bass... which was very good.",
+        "Quadruplets": [
+            {
+                "aspect": "Thai style Fried Sea Bass",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "128": {
+        "id": "128",
+        "original_id": "ASQP_rest16_dev_128",
+        "text": "The view is breathtaking the service is top notch... the ambiance is wonderful.",
+        "Quadruplets": [
+            {
+                "aspect": "view",
+                "opinion": "breathtaking",
+                "sentiment": "positive",
+                "category": "LOCATION - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "top notch",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "ambiance",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "129": {
+        "id": "129",
+        "original_id": "ASQP_rest16_dev_129",
+        "text": "The ambience was nice, but service wasn't so great.",
+        "Quadruplets": [
+            {
+                "aspect": "ambience",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "wasn't so great",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "130": {
+        "id": "130",
+        "original_id": "ASQP_rest16_dev_130",
+        "text": "This place is not worth the prices.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "not worth the prices",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "place",
+                "opinion": "not worth the prices",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "131": {
+        "id": "131",
+        "original_id": "ASQP_rest16_dev_131",
+        "text": "We ate out in the back patio, which is worth it as it's cool and the music is hear well there.",
+        "Quadruplets": [
+            {
+                "aspect": "back patio",
+                "opinion": "worth",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "back patio",
+                "opinion": "cool",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "music",
+                "opinion": "well",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "132": {
+        "id": "132",
+        "original_id": "ASQP_rest16_dev_132",
+        "text": "I did not try the caviar but I tried their salmon and crab salad (they are all good)",
+        "Quadruplets": [
+            {
+                "aspect": "salmon",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "crab salad",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "133": {
+        "id": "133",
+        "original_id": "ASQP_rest16_dev_133",
+        "text": "We were seated outside and the waiter spilled red wine and hot tea on myself and my date.",
+        "Quadruplets": [
+            {
+                "aspect": "waiter",
+                "opinion": "spilled",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "134": {
+        "id": "134",
+        "original_id": "ASQP_rest16_dev_134",
+        "text": "We asked for beverages and never received them.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "never received",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "135": {
+        "id": "135",
+        "original_id": "ASQP_rest16_dev_135",
+        "text": "Great Indian food and the service is incredible.",
+        "Quadruplets": [
+            {
+                "aspect": "Indian food",
+                "opinion": "Great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "incredible",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "136": {
+        "id": "136",
+        "original_id": "ASQP_rest16_dev_136",
+        "text": "I would defiantly come back here again as one of my top choices.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "top choices",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "137": {
+        "id": "137",
+        "original_id": "ASQP_rest16_dev_137",
+        "text": "Okay-i don't mind the oily part (cause most are cooked that way) but it was way too bland.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "oily",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "bland",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "138": {
+        "id": "138",
+        "original_id": "ASQP_rest16_dev_138",
+        "text": "The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.",
+        "Quadruplets": [
+            {
+                "aspect": "atmosphere",
+                "opinion": "noisy",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "waiters",
+                "opinion": "fast",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "139": {
+        "id": "139",
+        "original_id": "ASQP_rest16_dev_139",
+        "text": "it's a perfect place to have a amazing indian food.",
+        "Quadruplets": [
+            {
+                "aspect": "indian food",
+                "opinion": "amazing",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "140": {
+        "id": "140",
+        "original_id": "ASQP_rest16_dev_140",
+        "text": "The freshest, best variety, and the fastest delivery.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "freshest",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "best variety",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "delivery",
+                "opinion": "fastest",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "141": {
+        "id": "141",
+        "original_id": "ASQP_rest16_dev_141",
+        "text": "I found the food, service and value exceptional everytime I have been there.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "exceptional",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "exceptional",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "value",
+                "opinion": "exceptional",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "142": {
+        "id": "142",
+        "original_id": "ASQP_rest16_dev_142",
+        "text": "In an area sadly lacking in decent Thai food, this is one of the best spots.",
+        "Quadruplets": [
+            {
+                "aspect": "Thai food",
+                "opinion": "decent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "143": {
+        "id": "143",
+        "original_id": "ASQP_rest16_dev_143",
+        "text": "I got an excellent piece of cheesecake and we had several other nice pastries.",
+        "Quadruplets": [
+            {
+                "aspect": "cheesecake",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "pastries",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "144": {
+        "id": "144",
+        "original_id": "ASQP_rest16_dev_144",
+        "text": "I would highly recommend this place!",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "recommend",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "145": {
+        "id": "145",
+        "original_id": "ASQP_rest16_dev_145",
+        "text": "This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I can not comp it.",
+        "Quadruplets": [
+            {
+                "aspect": "manager",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "146": {
+        "id": "146",
+        "original_id": "ASQP_rest16_dev_146",
+        "text": "THe perfect spot.",
+        "Quadruplets": [
+            {
+                "aspect": "spot",
+                "opinion": "perfect",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "147": {
+        "id": "147",
+        "original_id": "ASQP_rest16_dev_147",
+        "text": "Service ok but unfriendly, filthy bathroom.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "unfriendly",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "bathroom",
+                "opinion": "filthy",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "148": {
+        "id": "148",
+        "original_id": "ASQP_rest16_dev_148",
+        "text": "The staff was accomodating, the food was absolutely delicious and the place is lovely.",
+        "Quadruplets": [
+            {
+                "aspect": "staff",
+                "opinion": "accomodating",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "place",
+                "opinion": "lovely",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "149": {
+        "id": "149",
+        "original_id": "ASQP_rest16_dev_149",
+        "text": "good music, great food, speedy service affordable prices.",
+        "Quadruplets": [
+            {
+                "aspect": "music",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "speedy",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "affordable",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "150": {
+        "id": "150",
+        "original_id": "ASQP_rest16_dev_150",
+        "text": "We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.",
+        "Quadruplets": [
+            {
+                "aspect": "waitress",
+                "opinion": "through the bill",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "151": {
+        "id": "151",
+        "original_id": "ASQP_rest16_dev_151",
+        "text": "We had a great time at the Jekyll and hyde Pub last night.",
+        "Quadruplets": [
+            {
+                "aspect": "Jekyll and hyde Pub",
+                "opinion": "great time",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "152": {
+        "id": "152",
+        "original_id": "ASQP_rest16_dev_152",
+        "text": "The food is authentic Italian - delicious!",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "authentic Italian",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "153": {
+        "id": "153",
+        "original_id": "ASQP_rest16_dev_153",
+        "text": "I thanked my friend who recommended me this restaurant and will certainly recommend it to others.",
+        "Quadruplets": [
+            {
+                "aspect": "restaurant",
+                "opinion": "recommend",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "154": {
+        "id": "154",
+        "original_id": "ASQP_rest16_dev_154",
+        "text": "Planet Thai is great!",
+        "Quadruplets": [
+            {
+                "aspect": "Planet Thai",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "155": {
+        "id": "155",
+        "original_id": "ASQP_rest16_dev_155",
+        "text": "To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "varies",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "156": {
+        "id": "156",
+        "original_id": "ASQP_rest16_dev_156",
+        "text": "Restaurant with a view",
+        "Quadruplets": [
+            {
+                "aspect": "view",
+                "opinion": "with a view",
+                "sentiment": "neutral",
+                "category": "LOCATION - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "157": {
+        "id": "157",
+        "original_id": "ASQP_rest16_dev_157",
+        "text": "The food was not fresh, the sauces were bland and very oily.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "not fresh",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "sauces",
+                "opinion": "bland",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "sauces",
+                "opinion": "oily",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "158": {
+        "id": "158",
+        "original_id": "ASQP_rest16_dev_158",
+        "text": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.",
+        "Quadruplets": [
+            {
+                "aspect": "Casa La Femme",
+                "opinion": "offended",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "Casa La Femme",
+                "opinion": "offended",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "159": {
+        "id": "159",
+        "original_id": "ASQP_rest16_dev_159",
+        "text": "This is one of my favorite restaurants and it is not to be missed.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "160": {
+        "id": "160",
+        "original_id": "ASQP_rest16_dev_160",
+        "text": "Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "greasy",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "dry",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "tasteless",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "161": {
+        "id": "161",
+        "original_id": "ASQP_rest16_dev_161",
+        "text": "Rao's has the best service and atmosphere in NYC.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "atmosphere",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "162": {
+        "id": "162",
+        "original_id": "ASQP_rest16_dev_162",
+        "text": "Quite simply it's like stepping out of Manhattan and into a haven of tranquility.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "a haven of tranquility",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "163": {
+        "id": "163",
+        "original_id": "ASQP_rest16_dev_163",
+        "text": "The place is a lot of fun.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "fun",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "164": {
+        "id": "164",
+        "original_id": "ASQP_rest16_dev_164",
+        "text": "With the great variety on the menu, I eat here often and never get bored.",
+        "Quadruplets": [
+            {
+                "aspect": "menu",
+                "opinion": "great variety",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "165": {
+        "id": "165",
+        "original_id": "ASQP_rest16_dev_165",
+        "text": "The vibe is very relaxed and cozy, service was great and the food was excellent!",
+        "Quadruplets": [
+            {
+                "aspect": "vibe",
+                "opinion": "relaxed",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "vibe",
+                "opinion": "cozy",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "166": {
+        "id": "166",
+        "original_id": "ASQP_rest16_dev_166",
+        "text": "I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "like being back in Japan",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "feel",
+                "opinion": "like being back in Japan",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "167": {
+        "id": "167",
+        "original_id": "ASQP_rest16_dev_167",
+        "text": "If you like spicy food get the chicken vindaloo.",
+        "Quadruplets": [
+            {
+                "aspect": "chicken vindaloo",
+                "opinion": "get",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "168": {
+        "id": "168",
+        "original_id": "ASQP_rest16_dev_168",
+        "text": "Decor is nice though service can be spotty.",
+        "Quadruplets": [
+            {
+                "aspect": "Decor",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "spotty",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "169": {
+        "id": "169",
+        "original_id": "ASQP_rest16_dev_169",
+        "text": "The atmosphere isn't the greatest, but I suppose that's how they keep the prices down.",
+        "Quadruplets": [
+            {
+                "aspect": "atmosphere",
+                "opinion": "isn't the greatest",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "keep the prices down",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "170": {
+        "id": "170",
+        "original_id": "ASQP_rest16_dev_170",
+        "text": "I can't remember the last time I had such gross food in New York.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "gross",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "171": {
+        "id": "171",
+        "original_id": "ASQP_rest16_dev_171",
+        "text": "We ate at this Thai place following the reviews but very unhappy with the foods.",
+        "Quadruplets": [
+            {
+                "aspect": "foods",
+                "opinion": "unhappy",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "172": {
+        "id": "172",
+        "original_id": "ASQP_rest16_dev_172",
+        "text": "Definitely a neighborhood favorite.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "173": {
+        "id": "173",
+        "original_id": "ASQP_rest16_dev_173",
+        "text": "The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.",
+        "Quadruplets": [
+            {
+                "aspect": "pesto pizza",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "spicy Italian cheese",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "174": {
+        "id": "174",
+        "original_id": "ASQP_rest16_dev_174",
+        "text": "Food took some time to prepare, all worth waiting for.",
+        "Quadruplets": [
+            {
+                "aspect": "Food",
+                "opinion": "worth",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "took some time",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "175": {
+        "id": "175",
+        "original_id": "ASQP_rest16_dev_175",
+        "text": "Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "be back",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "176": {
+        "id": "176",
+        "original_id": "ASQP_rest16_dev_176",
+        "text": "Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",
+        "Quadruplets": [
+            {
+                "aspect": "Leon",
+                "opinion": "casual",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Leon",
+                "opinion": "hip",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "specials",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "atmosphere",
+                "opinion": "warm",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "atmosphere",
+                "opinion": "lively",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "French bistro fare",
+                "opinion": "well prepared",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "177": {
+        "id": "177",
+        "original_id": "ASQP_rest16_dev_177",
+        "text": "Best meal in a long time!",
+        "Quadruplets": [
+            {
+                "aspect": "meal",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "178": {
+        "id": "178",
+        "original_id": "ASQP_rest16_dev_178",
+        "text": "As always we had a great glass of wine while we waited.",
+        "Quadruplets": [
+            {
+                "aspect": "glass of wine",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "179": {
+        "id": "179",
+        "original_id": "ASQP_rest16_dev_179",
+        "text": "Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.",
+        "Quadruplets": [
+            {
+                "aspect": "Hurley's",
+                "opinion": "glad",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "180": {
+        "id": "180",
+        "original_id": "ASQP_rest16_dev_180",
+        "text": "overpriced japanese food with mediocre service",
+        "Quadruplets": [
+            {
+                "aspect": "japanese food",
+                "opinion": "overpriced",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            },
+            {
+                "aspect": "service",
+                "opinion": "mediocre",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "181": {
+        "id": "181",
+        "original_id": "ASQP_rest16_dev_181",
+        "text": "I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!",
+        "Quadruplets": [
+            {
+                "aspect": "Heartland Brewery",
+                "opinion": "NEVER BEEN DISAPPOINTED",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "182": {
+        "id": "182",
+        "original_id": "ASQP_rest16_dev_182",
+        "text": "We had Pam's special fried fish and it was amazing.",
+        "Quadruplets": [
+            {
+                "aspect": "Pam's special fried fish",
+                "opinion": "amazing",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "183": {
+        "id": "183",
+        "original_id": "ASQP_rest16_dev_183",
+        "text": "The menu is limited but almost all of the dishes are excellent.",
+        "Quadruplets": [
+            {
+                "aspect": "menu",
+                "opinion": "limited",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "dishes",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "184": {
+        "id": "184",
+        "original_id": "ASQP_rest16_dev_184",
+        "text": "For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "waited over 1/2 hour to 45 minutes",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "185": {
+        "id": "185",
+        "original_id": "ASQP_rest16_dev_185",
+        "text": "Everything about this restaurant was special.",
+        "Quadruplets": [
+            {
+                "aspect": "restaurant",
+                "opinion": "special",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "186": {
+        "id": "186",
+        "original_id": "ASQP_rest16_dev_186",
+        "text": "We did arrive late for our reservation so I can not complain too much about the wait for a table.",
+        "Quadruplets": [
+            {
+                "aspect": "wait",
+                "opinion": "can not complain too much",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "187": {
+        "id": "187",
+        "original_id": "ASQP_rest16_dev_187",
+        "text": "bad staff",
+        "Quadruplets": [
+            {
+                "aspect": "staff",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "188": {
+        "id": "188",
+        "original_id": "ASQP_rest16_dev_188",
+        "text": "this little place has a cute interior decor and affordable city prices.",
+        "Quadruplets": [
+            {
+                "aspect": "interior decor",
+                "opinion": "cute",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "place",
+                "opinion": "little",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "189": {
+        "id": "189",
+        "original_id": "ASQP_rest16_dev_189",
+        "text": "But $500 for a dinner for two that didn't include Wine?",
+        "Quadruplets": [
+            {
+                "aspect": "dinner for two",
+                "opinion": "didn't include Wine",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "190": {
+        "id": "190",
+        "original_id": "ASQP_rest16_dev_190",
+        "text": "This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.",
+        "Quadruplets": [
+            {
+                "aspect": "restaurant",
+                "opinion": "nice",
+                "sentiment": "positive",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "191": {
+        "id": "191",
+        "original_id": "ASQP_rest16_dev_191",
+        "text": "Try green curry with vegetables.",
+        "Quadruplets": [
+            {
+                "aspect": "green curry with vegetables",
+                "opinion": "Try",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "192": {
+        "id": "192",
+        "original_id": "ASQP_rest16_dev_192",
+        "text": "My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque.",
+        "Quadruplets": [
+            {
+                "aspect": "New England Chowder",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Lobster Bisque",
+                "opinion": "award",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "193": {
+        "id": "193",
+        "original_id": "ASQP_rest16_dev_193",
+        "text": "Love Pizza 33...",
+        "Quadruplets": [
+            {
+                "aspect": "Pizza 33",
+                "opinion": "Love",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "194": {
+        "id": "194",
+        "original_id": "ASQP_rest16_dev_194",
+        "text": "What a hassle!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "hassle",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "195": {
+        "id": "195",
+        "original_id": "ASQP_rest16_dev_195",
+        "text": "Poor service and management",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "Poor",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "management",
+                "opinion": "Poor",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "196": {
+        "id": "196",
+        "original_id": "ASQP_rest16_dev_196",
+        "text": "And the Tom Kha soup was pathetic.",
+        "Quadruplets": [
+            {
+                "aspect": "Tom Kha soup",
+                "opinion": "pathetic",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "197": {
+        "id": "197",
+        "original_id": "ASQP_rest16_dev_197",
+        "text": "Moderate prices.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Moderate",
+                "sentiment": "neutral",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "198": {
+        "id": "198",
+        "original_id": "ASQP_rest16_dev_198",
+        "text": "The hostess and the waitress were incredibly rude and did everything they could to rush us out.",
+        "Quadruplets": [
+            {
+                "aspect": "hostess",
+                "opinion": "rude",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "waitress",
+                "opinion": "rude",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "199": {
+        "id": "199",
+        "original_id": "ASQP_rest16_dev_199",
+        "text": "On a recent Sunday afternoon, a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT.",
+        "Quadruplets": [
+            {
+                "aspect": "restaurant",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "200": {
+        "id": "200",
+        "original_id": "ASQP_rest16_dev_200",
+        "text": "There is something about their atmosphere that makes me come back nearly every week.",
+        "Quadruplets": [
+            {
+                "aspect": "atmosphere",
+                "opinion": "come back",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "201": {
+        "id": "201",
+        "original_id": "ASQP_rest16_dev_201",
+        "text": "Great Indian food",
+        "Quadruplets": [
+            {
+                "aspect": "Indian food",
+                "opinion": "Great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "202": {
+        "id": "202",
+        "original_id": "ASQP_rest16_dev_202",
+        "text": "THe back garden sitting area is very pleasant, where you can see their personal herb garden.",
+        "Quadruplets": [
+            {
+                "aspect": "back garden sitting area",
+                "opinion": "pleasant",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "203": {
+        "id": "203",
+        "original_id": "ASQP_rest16_dev_203",
+        "text": "The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "terrible",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "204": {
+        "id": "204",
+        "original_id": "ASQP_rest16_dev_204",
+        "text": "Oh, and I never write reviews -- I just was so moved by how bad this place was, I felt it was my duty to spread the word.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "bad",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "205": {
+        "id": "205",
+        "original_id": "ASQP_rest16_dev_205",
+        "text": "Not a very fancy place but very good Chinese style Indian food.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "fancy",
+                "sentiment": "neutral",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Chinese style Indian food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "206": {
+        "id": "206",
+        "original_id": "ASQP_rest16_dev_206",
+        "text": "Wonderful strawberry daiquiries as well!",
+        "Quadruplets": [
+            {
+                "aspect": "strawberry daiquiries",
+                "opinion": "Wonderful",
+                "sentiment": "positive",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "207": {
+        "id": "207",
+        "original_id": "ASQP_rest16_dev_207",
+        "text": "The food was lousy - too sweet or too salty and the portions tiny.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "lousy",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "too sweet",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "too salty",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "portions",
+                "opinion": "tiny",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "208": {
+        "id": "208",
+        "original_id": "ASQP_rest16_dev_208",
+        "text": "delicious bagels, especially when right out of the oven.",
+        "Quadruplets": [
+            {
+                "aspect": "bagels",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "209": {
+        "id": "209",
+        "original_id": "ASQP_rest16_dev_209",
+        "text": "Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "place",
+                "opinion": "relaxing",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "210": {
+        "id": "210",
+        "original_id": "ASQP_rest16_dev_210",
+        "text": "I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.",
+        "Quadruplets": [
+            {
+                "aspect": "atmosphere",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "211": {
+        "id": "211",
+        "original_id": "ASQP_rest16_dev_211",
+        "text": "This was my frist time at Cafe St. Bart's and I must say how delicious the food and the service was.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "212": {
+        "id": "212",
+        "original_id": "ASQP_rest16_dev_212",
+        "text": "The service was excellent and the food was delicious.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "213": {
+        "id": "213",
+        "original_id": "ASQP_rest16_dev_213",
+        "text": "For those that go once and don't enjoy it, all I can say is that they just don't get it.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "enjoy",
+                "sentiment": "positive",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "214": {
+        "id": "214",
+        "original_id": "ASQP_rest16_dev_214",
+        "text": "The bar drinks were Eh, ok to say the least.",
+        "Quadruplets": [
+            {
+                "aspect": "bar drinks",
+                "opinion": "ok",
+                "sentiment": "negative",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "215": {
+        "id": "215",
+        "original_id": "ASQP_rest16_dev_215",
+        "text": "Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",
+        "Quadruplets": [
+            {
+                "aspect": "waitstaff",
+                "opinion": "comfortable",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "waitstaff",
+                "opinion": "relaxed",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "216": {
+        "id": "216",
+        "original_id": "ASQP_rest16_dev_216",
+        "text": "The food is great.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "217": {
+        "id": "217",
+        "original_id": "ASQP_rest16_dev_217",
+        "text": "Great vibe, lots of people.",
+        "Quadruplets": [
+            {
+                "aspect": "vibe",
+                "opinion": "Great",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "218": {
+        "id": "218",
+        "original_id": "ASQP_rest16_dev_218",
+        "text": "This is undoubtedly my favorite modern Japanese brasserie (that don \u2019 t serve sushi), and in my opinion, one of the most romantic restaurants in the city!",
+        "Quadruplets": [
+            {
+                "aspect": "modern Japanese brasserie",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "modern Japanese brasserie",
+                "opinion": "romantic",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "219": {
+        "id": "219",
+        "original_id": "ASQP_rest16_dev_219",
+        "text": "The bread we received was horrible - rock hard and cold - and the \"free\" appetizer of olives was disappointing.",
+        "Quadruplets": [
+            {
+                "aspect": "bread",
+                "opinion": "horrible",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "appetizer of olives",
+                "opinion": "disappointing",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "appetizer of olives",
+                "opinion": "\"free\"",
+                "sentiment": "neutral",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "220": {
+        "id": "220",
+        "original_id": "ASQP_rest16_dev_220",
+        "text": "While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "rude",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "221": {
+        "id": "221",
+        "original_id": "ASQP_rest16_dev_221",
+        "text": "The nakgi-bokum was horrible.",
+        "Quadruplets": [
+            {
+                "aspect": "nakgi-bokum",
+                "opinion": "horrible",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "222": {
+        "id": "222",
+        "original_id": "ASQP_rest16_dev_222",
+        "text": "I ate here a week ago and found most dishes average at best and too expensive.",
+        "Quadruplets": [
+            {
+                "aspect": "dishes",
+                "opinion": "average",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "dishes",
+                "opinion": "too expensive",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "223": {
+        "id": "223",
+        "original_id": "ASQP_rest16_dev_223",
+        "text": "They honored reservation on Sunday afternoon very well.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "very well",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "224": {
+        "id": "224",
+        "original_id": "ASQP_rest16_dev_224",
+        "text": "The hostess was very pleasant.",
+        "Quadruplets": [
+            {
+                "aspect": "hostess",
+                "opinion": "pleasant",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "225": {
+        "id": "225",
+        "original_id": "ASQP_rest16_dev_225",
+        "text": "Skip this restaurant, it's a big disappointment.",
+        "Quadruplets": [
+            {
+                "aspect": "restaurant",
+                "opinion": "Skip",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "restaurant",
+                "opinion": "disappointment",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "226": {
+        "id": "226",
+        "original_id": "ASQP_rest16_dev_226",
+        "text": "Service was very good - prompt, attentive and non-intrusive.",
+        "Quadruplets": [
+            {
+                "aspect": "Service",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Service",
+                "opinion": "prompt",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Service",
+                "opinion": "attentive",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Service",
+                "opinion": "non-intrusive",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "227": {
+        "id": "227",
+        "original_id": "ASQP_rest16_dev_227",
+        "text": "I was there on sat. for my birthday and we had an excellent time.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "228": {
+        "id": "228",
+        "original_id": "ASQP_rest16_dev_228",
+        "text": "La Rosa waltzes in, and I think they are doing it the best.",
+        "Quadruplets": [
+            {
+                "aspect": "La Rosa",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "229": {
+        "id": "229",
+        "original_id": "ASQP_rest16_dev_229",
+        "text": "Toons has recently been redone, so it's now a very attractive space.",
+        "Quadruplets": [
+            {
+                "aspect": "Toons",
+                "opinion": "attractive",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "230": {
+        "id": "230",
+        "original_id": "ASQP_rest16_dev_230",
+        "text": "Sushi experience was unbelievable with my fiance.",
+        "Quadruplets": [
+            {
+                "aspect": "Sushi",
+                "opinion": "unbelievable",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "231": {
+        "id": "231",
+        "original_id": "ASQP_rest16_dev_231",
+        "text": "I don \u2019 t usually visit the same establishment more than once, what more twice, but I \u2019 ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.",
+        "Quadruplets": [
+            {
+                "aspect": "Zenkichi",
+                "opinion": "come to Zenkichi anytime",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "Zenkichi",
+                "opinion": "quiet",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Zenkichi",
+                "opinion": "unhurried",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Zenkichi",
+                "opinion": "memorable",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "232": {
+        "id": "232",
+        "original_id": "ASQP_rest16_dev_232",
+        "text": "I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.",
+        "Quadruplets": [
+            {
+                "aspect": "caviar",
+                "opinion": "delicious top grade",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "fantastic",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "233": {
+        "id": "233",
+        "original_id": "ASQP_rest16_dev_233",
+        "text": "We left, never to return.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "never to return",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "234": {
+        "id": "234",
+        "original_id": "ASQP_rest16_dev_234",
+        "text": "These are overpriced and you can get better just around the corner:",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "overpriced",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "can get better",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "235": {
+        "id": "235",
+        "original_id": "ASQP_rest16_dev_235",
+        "text": "Go there once and oh yes... you will go back... you will...",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "go back",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "236": {
+        "id": "236",
+        "original_id": "ASQP_rest16_dev_236",
+        "text": "The Steak Tartare is a great bet, they fix it for you at the table.",
+        "Quadruplets": [
+            {
+                "aspect": "Steak Tartare",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "237": {
+        "id": "237",
+        "original_id": "ASQP_rest16_dev_237",
+        "text": "I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!",
+        "Quadruplets": [
+            {
+                "aspect": "people",
+                "opinion": "evil",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "people",
+                "opinion": "incompetent",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "Cafe Noir",
+                "opinion": "like",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "238": {
+        "id": "238",
+        "original_id": "ASQP_rest16_dev_238",
+        "text": "It's very spicy but not offensive.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "not offensive",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "239": {
+        "id": "239",
+        "original_id": "ASQP_rest16_dev_239",
+        "text": "First of all Dal Bukhara Rocks.",
+        "Quadruplets": [
+            {
+                "aspect": "Dal Bukhara",
+                "opinion": "Rocks",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "240": {
+        "id": "240",
+        "original_id": "ASQP_rest16_dev_240",
+        "text": "The wine list is excellent.",
+        "Quadruplets": [
+            {
+                "aspect": "wine list",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "DRINKS - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "241": {
+        "id": "241",
+        "original_id": "ASQP_rest16_dev_241",
+        "text": "However, our $14 drinks were were horrible!",
+        "Quadruplets": [
+            {
+                "aspect": "drinks",
+                "opinion": "horrible",
+                "sentiment": "negative",
+                "category": "DRINKS - QUALITY"
+            },
+            {
+                "aspect": "drinks",
+                "opinion": "horrible",
+                "sentiment": "negative",
+                "category": "DRINKS - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "242": {
+        "id": "242",
+        "original_id": "ASQP_rest16_dev_242",
+        "text": "No desert menu, no apology, nothing!!!!!!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "no apology",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "243": {
+        "id": "243",
+        "original_id": "ASQP_rest16_dev_243",
+        "text": "This is some really good, inexpensive sushi.",
+        "Quadruplets": [
+            {
+                "aspect": "sushi",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "sushi",
+                "opinion": "inexpensive",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "244": {
+        "id": "244",
+        "original_id": "ASQP_rest16_dev_244",
+        "text": "I've been there three times and have always had wonderful experiences.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "wonderful",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "245": {
+        "id": "245",
+        "original_id": "ASQP_rest16_dev_245",
+        "text": "Took my mom for Mother's Day, and the maitre d ' was pretty rude.",
+        "Quadruplets": [
+            {
+                "aspect": "maitre d '",
+                "opinion": "rude",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "246": {
+        "id": "246",
+        "original_id": "ASQP_rest16_dev_246",
+        "text": "However, go for the ambience, and consider the food just a companion for a trip across the world!",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "a companion for a trip across the world",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "247": {
+        "id": "247",
+        "original_id": "ASQP_rest16_dev_247",
+        "text": "Probably would not go back here.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "would not go back",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "248": {
+        "id": "248",
+        "original_id": "ASQP_rest16_dev_248",
+        "text": "Just want to warn you all - don't waste your time and money.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "waste",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "249": {
+        "id": "249",
+        "original_id": "ASQP_rest16_dev_249",
+        "text": "The filet mignon dish was superb!",
+        "Quadruplets": [
+            {
+                "aspect": "filet mignon dish",
+                "opinion": "superb",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "250": {
+        "id": "250",
+        "original_id": "ASQP_rest16_dev_250",
+        "text": "The only downside... they only take cash which is OK if you know about it ahead of time.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "downside",
+                "sentiment": "negative",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "251": {
+        "id": "251",
+        "original_id": "ASQP_rest16_dev_251",
+        "text": "The service is ok, some of the people didn't get what they asked for.",
+        "Quadruplets": [
+            {
+                "aspect": "service",
+                "opinion": "ok",
+                "sentiment": "neutral",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "252": {
+        "id": "252",
+        "original_id": "ASQP_rest16_dev_252",
+        "text": "I have never before eaten 40 pieces of relatively good nigiri.",
+        "Quadruplets": [
+            {
+                "aspect": "nigiri",
+                "opinion": "good",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "253": {
+        "id": "253",
+        "original_id": "ASQP_rest16_dev_253",
+        "text": "It is expensive but well worth the money.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "expensive",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "well worth",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "254": {
+        "id": "254",
+        "original_id": "ASQP_rest16_dev_254",
+        "text": "The place's decor and hidden bathrooms made for a good laugh.",
+        "Quadruplets": [
+            {
+                "aspect": "decor",
+                "opinion": "good laugh",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "hidden bathrooms",
+                "opinion": "good laugh",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "255": {
+        "id": "255",
+        "original_id": "ASQP_rest16_dev_255",
+        "text": "The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.",
+        "Quadruplets": [
+            {
+                "aspect": "lobster sandwich",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "lobster sandwich",
+                "opinion": "not nearly enough to warrant that price",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "256": {
+        "id": "256",
+        "original_id": "ASQP_rest16_dev_256",
+        "text": "The food is very good, but not outstanding.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "good",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "257": {
+        "id": "257",
+        "original_id": "ASQP_rest16_dev_257",
+        "text": "Downstairs lounge is always a good attraction",
+        "Quadruplets": [
+            {
+                "aspect": "Downstairs lounge",
+                "opinion": "good attraction",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "258": {
+        "id": "258",
+        "original_id": "ASQP_rest16_dev_258",
+        "text": "The spicy Tuna roll is huge and probably the best that I've had at this price range.",
+        "Quadruplets": [
+            {
+                "aspect": "spicy Tuna roll",
+                "opinion": "huge",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "spicy Tuna roll",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "spicy Tuna roll",
+                "opinion": "best",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "259": {
+        "id": "259",
+        "original_id": "ASQP_rest16_dev_259",
+        "text": "The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.",
+        "Quadruplets": [
+            {
+                "aspect": "chicken lollipop",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "dishes",
+                "opinion": "oily",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "dishes",
+                "opinion": "spicy",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Chilli Chicken",
+                "opinion": "oily",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Chilli Chicken",
+                "opinion": "spicy",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "260": {
+        "id": "260",
+        "original_id": "ASQP_rest16_dev_260",
+        "text": "Can't argue about that, but they are clearly over priced.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "over priced",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "261": {
+        "id": "261",
+        "original_id": "ASQP_rest16_dev_261",
+        "text": "One special roll and one regular roll is enough to fill you up, but save room for dessert!",
+        "Quadruplets": [
+            {
+                "aspect": "dessert",
+                "opinion": "save room",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "special roll",
+                "opinion": "enough",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "regular roll",
+                "opinion": "enough",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "262": {
+        "id": "262",
+        "original_id": "ASQP_rest16_dev_262",
+        "text": "We were then shooed inside.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "shooed",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "263": {
+        "id": "263",
+        "original_id": "ASQP_rest16_dev_263",
+        "text": "Inexpensive, unassuming, great time!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Inexpensive",
+                "sentiment": "positive",
+                "category": "RESTAURANT - PRICES"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "unassuming",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "264": {
+        "id": "264",
+        "original_id": "ASQP_rest16_dev_264",
+        "text": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.",
+        "Quadruplets": [
+            {
+                "aspect": "hanger steak",
+                "opinion": "rubber",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "tuna",
+                "opinion": "flavorless",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "265": {
+        "id": "265",
+        "original_id": "ASQP_rest16_dev_265",
+        "text": "Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.",
+        "Quadruplets": [
+            {
+                "aspect": "spot",
+                "opinion": "Excellent",
+                "sentiment": "positive",
+                "category": "RESTAURANT - MISCELLANEOUS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "266": {
+        "id": "266",
+        "original_id": "ASQP_rest16_dev_266",
+        "text": "Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",
+        "Quadruplets": [
+            {
+                "aspect": "salmon",
+                "opinion": "wasnt impressed",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "chicken",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "servings for main entree",
+                "opinion": "Small",
+                "sentiment": "negative",
+                "category": "FOOD - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "267": {
+        "id": "267",
+        "original_id": "ASQP_rest16_dev_267",
+        "text": "It was divine melts in your mouth.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "divine",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "268": {
+        "id": "268",
+        "original_id": "ASQP_rest16_dev_268",
+        "text": "My six year old loved it.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "loved",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "269": {
+        "id": "269",
+        "original_id": "ASQP_rest16_dev_269",
+        "text": "Terrible Waste of money.. scammers",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Terrible",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "Waste of money",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "270": {
+        "id": "270",
+        "original_id": "ASQP_rest16_dev_270",
+        "text": "Love it.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "Love",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "271": {
+        "id": "271",
+        "original_id": "ASQP_rest16_dev_271",
+        "text": "You will not be disapointed at all.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "will not be disapointed",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "272": {
+        "id": "272",
+        "original_id": "ASQP_rest16_dev_272",
+        "text": "Food was just average... if they lowered the prices just a bit, it would be a bigger draw.",
+        "Quadruplets": [
+            {
+                "aspect": "Food",
+                "opinion": "average",
+                "sentiment": "neutral",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "273": {
+        "id": "273",
+        "original_id": "ASQP_rest16_dev_273",
+        "text": "Everything was going good until we got our meals.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "274": {
+        "id": "274",
+        "original_id": "ASQP_rest16_dev_274",
+        "text": "I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!",
+        "Quadruplets": [
+            {
+                "aspect": "Dining Garden",
+                "opinion": "fantastic",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Jazz Bar",
+                "opinion": "new",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "Thin Crust Pizzas",
+                "opinion": "Best",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "Lasagna Menu",
+                "opinion": "die for",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "275": {
+        "id": "275",
+        "original_id": "ASQP_rest16_dev_275",
+        "text": "After dinner the manager grabbed my boyfriend, asked him: Where are you from... maybe you dont know how things work in America... and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.",
+        "Quadruplets": [
+            {
+                "aspect": "manager",
+                "opinion": "yelling",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "276": {
+        "id": "276",
+        "original_id": "ASQP_rest16_dev_276",
+        "text": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "Quadruplets": [
+            {
+                "aspect": "meal",
+                "opinion": "enjoy",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "meal",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "restaurant",
+                "opinion": "noisy",
+                "sentiment": "negative",
+                "category": "AMBIENCE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "277": {
+        "id": "277",
+        "original_id": "ASQP_rest16_dev_277",
+        "text": "Don't miss Bloom's on your next trip to Manhatten.",
+        "Quadruplets": [
+            {
+                "aspect": "Bloom's",
+                "opinion": "miss",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "278": {
+        "id": "278",
+        "original_id": "ASQP_rest16_dev_278",
+        "text": "The food was good.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "279": {
+        "id": "279",
+        "original_id": "ASQP_rest16_dev_279",
+        "text": "The atmosphere is unheralded, the service impecible, and the food magnificant.",
+        "Quadruplets": [
+            {
+                "aspect": "atmosphere",
+                "opinion": "unheralded",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "service",
+                "opinion": "impecible",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "magnificant",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "280": {
+        "id": "280",
+        "original_id": "ASQP_rest16_dev_280",
+        "text": "Would NEVER go back there.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "NEVER go back",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "281": {
+        "id": "281",
+        "original_id": "ASQP_rest16_dev_281",
+        "text": "Two complaints -- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",
+        "Quadruplets": [
+            {
+                "aspect": "appetizer selection",
+                "opinion": "complaints",
+                "sentiment": "negative",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "282": {
+        "id": "282",
+        "original_id": "ASQP_rest16_dev_282",
+        "text": "$6 and there is much tasty food, all of it fresh and continually refilled.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "tasty",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "fresh",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "refilled",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "283": {
+        "id": "283",
+        "original_id": "ASQP_rest16_dev_283",
+        "text": "The exotic food is beautifully presented and is a delight in delicious combinations.",
+        "Quadruplets": [
+            {
+                "aspect": "exotic food",
+                "opinion": "beautifully presented",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            },
+            {
+                "aspect": "exotic food",
+                "opinion": "delight",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "284": {
+        "id": "284",
+        "original_id": "ASQP_rest16_dev_284",
+        "text": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",
+        "Quadruplets": [
+            {
+                "aspect": "gentleman",
+                "opinion": "without so much as a smile or greeting",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "285": {
+        "id": "285",
+        "original_id": "ASQP_rest16_dev_285",
+        "text": "I will be going back very soon.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "going back",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "286": {
+        "id": "286",
+        "original_id": "ASQP_rest16_dev_286",
+        "text": "The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "excellent",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "margaritas",
+                "opinion": "anything to write home about",
+                "sentiment": "neutral",
+                "category": "DRINKS - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "287": {
+        "id": "287",
+        "original_id": "ASQP_rest16_dev_287",
+        "text": "What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "never received",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "288": {
+        "id": "288",
+        "original_id": "ASQP_rest16_dev_288",
+        "text": "But the pizza is way to expensive.",
+        "Quadruplets": [
+            {
+                "aspect": "pizza",
+                "opinion": "expensive",
+                "sentiment": "negative",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "289": {
+        "id": "289",
+        "original_id": "ASQP_rest16_dev_289",
+        "text": "Just straight up cheap, good food.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "food",
+                "opinion": "cheap",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "290": {
+        "id": "290",
+        "original_id": "ASQP_rest16_dev_290",
+        "text": "This dish is my favorite and I always get it when I go there and never get tired of it.",
+        "Quadruplets": [
+            {
+                "aspect": "dish",
+                "opinion": "favorite",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "291": {
+        "id": "291",
+        "original_id": "ASQP_rest16_dev_291",
+        "text": "$20 for all you can eat sushi can not be beaten.",
+        "Quadruplets": [
+            {
+                "aspect": "all you can eat sushi",
+                "opinion": "beaten",
+                "sentiment": "positive",
+                "category": "FOOD - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "292": {
+        "id": "292",
+        "original_id": "ASQP_rest16_dev_292",
+        "text": "We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.",
+        "Quadruplets": [
+            {
+                "aspect": "Manager",
+                "opinion": "enjoying",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "293": {
+        "id": "293",
+        "original_id": "ASQP_rest16_dev_293",
+        "text": "I was shocked that my friends wanted to stay after the waitress said, \"can I help you\" and \"how many are in your party.\"",
+        "Quadruplets": [
+            {
+                "aspect": "waitress",
+                "opinion": "shocked",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "294": {
+        "id": "294",
+        "original_id": "ASQP_rest16_dev_294",
+        "text": "The takeout is great too since they give high quality tupperware as well.",
+        "Quadruplets": [
+            {
+                "aspect": "takeout",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "295": {
+        "id": "295",
+        "original_id": "ASQP_rest16_dev_295",
+        "text": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.",
+        "Quadruplets": [
+            {
+                "aspect": "crabmeat lasagna",
+                "opinion": "out of this world",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "296": {
+        "id": "296",
+        "original_id": "ASQP_rest16_dev_296",
+        "text": "its just a fun place to go, not a five star restaraunt.",
+        "Quadruplets": [
+            {
+                "aspect": "restaraunt",
+                "opinion": "five star",
+                "sentiment": "neutral",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "297": {
+        "id": "297",
+        "original_id": "ASQP_rest16_dev_297",
+        "text": "Staff is very accomodating.",
+        "Quadruplets": [
+            {
+                "aspect": "Staff",
+                "opinion": "accomodating",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "298": {
+        "id": "298",
+        "original_id": "ASQP_rest16_dev_298",
+        "text": "He served me an Uni Hand roll, which I never had before, and let me tell you... IT WAS HEAVEN!",
+        "Quadruplets": [
+            {
+                "aspect": "Uni Hand roll",
+                "opinion": "HEAVEN",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "299": {
+        "id": "299",
+        "original_id": "ASQP_rest16_dev_299",
+        "text": "Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",
+        "Quadruplets": [
+            {
+                "aspect": "Guacamole+shrimp appetizer",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "filet",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "frites",
+                "opinion": "didn't much like",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "300": {
+        "id": "300",
+        "original_id": "ASQP_rest16_dev_300",
+        "text": "The food however, is what one might expect.",
+        "Quadruplets": [
+            {
+                "aspect": "food",
+                "opinion": "expect",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "301": {
+        "id": "301",
+        "original_id": "ASQP_rest16_dev_301",
+        "text": "We had fun eating in there, we were there like around 3 a.m. in the morning!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "had fun",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "302": {
+        "id": "302",
+        "original_id": "ASQP_rest16_dev_302",
+        "text": "Will prob. not return but it is a great dinning experience to try atleast once.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "not return",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "303": {
+        "id": "303",
+        "original_id": "ASQP_rest16_dev_303",
+        "text": "Great sushi experience.",
+        "Quadruplets": [
+            {
+                "aspect": "sushi",
+                "opinion": "Great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "304": {
+        "id": "304",
+        "original_id": "ASQP_rest16_dev_304",
+        "text": "Great pizza and fantastic service.",
+        "Quadruplets": [
+            {
+                "aspect": "pizza",
+                "opinion": "Great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "service",
+                "opinion": "fantastic",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "305": {
+        "id": "305",
+        "original_id": "ASQP_rest16_dev_305",
+        "text": "On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "waiting an extra hour",
+                "sentiment": "negative",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "306": {
+        "id": "306",
+        "original_id": "ASQP_rest16_dev_306",
+        "text": "Have been dozens of times and never failed to enjoy the experience.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "enjoy",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "307": {
+        "id": "307",
+        "original_id": "ASQP_rest16_dev_307",
+        "text": "I'm glad I was introduced to this place and this is a rare gem in NY.",
+        "Quadruplets": [
+            {
+                "aspect": "place",
+                "opinion": "glad",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "308": {
+        "id": "308",
+        "original_id": "ASQP_rest16_dev_308",
+        "text": "Easily the worst stir-fried squid I've ever tasted.",
+        "Quadruplets": [
+            {
+                "aspect": "stir-fried squid",
+                "opinion": "worst",
+                "sentiment": "negative",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "309": {
+        "id": "309",
+        "original_id": "ASQP_rest16_dev_309",
+        "text": "With the theater 2 blocks away we had a delicious meal in a beautiful room.",
+        "Quadruplets": [
+            {
+                "aspect": "meal",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "room",
+                "opinion": "beautiful",
+                "sentiment": "positive",
+                "category": "AMBIENCE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "2 blocks away",
+                "sentiment": "positive",
+                "category": "LOCATION - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "310": {
+        "id": "310",
+        "original_id": "ASQP_rest16_dev_310",
+        "text": "But nonetheless -- great spot, great food.",
+        "Quadruplets": [
+            {
+                "aspect": "spot",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "food",
+                "opinion": "great",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "311": {
+        "id": "311",
+        "original_id": "ASQP_rest16_dev_311",
+        "text": "Our visit their to say the least, was an unpleasant and costly experience!",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "unpleasant",
+                "sentiment": "negative",
+                "category": "RESTAURANT - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "costly",
+                "sentiment": "negative",
+                "category": "RESTAURANT - PRICES"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "312": {
+        "id": "312",
+        "original_id": "ASQP_rest16_dev_312",
+        "text": "Consistently good Japanese Tapas.",
+        "Quadruplets": [
+            {
+                "aspect": "Japanese Tapas",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "313": {
+        "id": "313",
+        "original_id": "ASQP_rest16_dev_313",
+        "text": "The food is prepared quickly and efficiently.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "quickly",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "efficiently",
+                "sentiment": "positive",
+                "category": "SERVICE - GENERAL"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "314": {
+        "id": "314",
+        "original_id": "ASQP_rest16_dev_314",
+        "text": "It is simply amazing.",
+        "Quadruplets": [
+            {
+                "aspect": "NULL",
+                "opinion": "amazing",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "315": {
+        "id": "315",
+        "original_id": "ASQP_rest16_dev_315",
+        "text": "If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.",
+        "Quadruplets": [
+            {
+                "aspect": "marinara/arrabiatta sauce",
+                "opinion": "try",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "marinara/arrabiatta sauce",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "mozzarella en Carozza",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "NULL",
+                "opinion": "delicious",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            }
+        ],
+        "type": "restaurant review"
+    },
+    "316": {
+        "id": "316",
+        "original_id": "ASQP_rest16_dev_316",
+        "text": "The pizza was pretty good and huge.",
+        "Quadruplets": [
+            {
+                "aspect": "pizza",
+                "opinion": "good",
+                "sentiment": "positive",
+                "category": "FOOD - QUALITY"
+            },
+            {
+                "aspect": "pizza",
+                "opinion": "huge",
+                "sentiment": "positive",
+                "category": "FOOD - STYLE_OPTIONS"
+            }
+        ],
+        "type": "restaurant review"
+    }
+}
